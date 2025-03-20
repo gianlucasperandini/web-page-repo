@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 We are creating a webpage for our company
+=======
+We are creating a webpage for our company.
+>>>>>>> c8ae386d3b120eb6a58a879d11074956b0fbcad7
